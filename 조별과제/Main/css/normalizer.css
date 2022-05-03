@@ -1,0 +1,240 @@
+html {
+	color: rgb(0, 0, 0);
+}
+button {
+	color: rgb(0, 0, 0);
+}
+input {
+	color: rgb(0, 0, 0);
+}
+select {
+	color: rgb(0, 0, 0);
+}
+textarea {
+	color: rgb(0, 0, 0);
+}
+pre {
+	margin: 0px; padding: 0px; white-space: pre-wrap; -ms-word-wrap: break-word;
+}
+select {
+	border: 1px solid rgb(221, 221, 221); border-image: none;
+}
+html {
+	height: 100%; font-size: 12px;
+}
+html.ie9 input[type='checkbox'] {
+	outline: 0px; border: 0px currentColor; border-image: none;
+}
+html.ie9 input[type='radio'] {
+	outline: 0px; border: 0px currentColor; border-image: none;
+}
+body {
+	margin: 0px; height: 100%; font-family: "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; font-size: 12px;
+}
+article {
+	display: block;
+}
+aside {
+	display: block;
+}
+details {
+	display: block;
+}
+figcaption {
+	display: block;
+}
+figure {
+	display: block;
+}
+footer {
+	display: block;
+}
+header {
+	display: block;
+}
+hgroup {
+	display: block;
+}
+main {
+	display: block;
+}
+nav {
+	display: block;
+}
+section {
+	display: block;
+}
+summary {
+	display: block;
+}
+menu {
+	padding: 0px 0px 0px 40px;
+}
+ol {
+	padding: 0px 0px 0px 40px;
+}
+ul {
+	padding: 0px 0px 0px 40px;
+}
+nav ul {
+	list-style: none;
+}
+nav ol {
+	list-style: none;
+}
+img {
+	border: 0px currentColor; border-image: none; -ms-interpolation-mode: bicubic;
+}
+button {
+	line-height: normal;
+}
+input {
+	line-height: normal;
+}
+button {
+	text-transform: none;
+}
+select {
+	text-transform: none;
+}
+button {
+	background: none; padding: 0px; border: currentColor; border-image: none; cursor: pointer; -webkit-appearance: button;
+}
+html input[type='button'] {
+	background: none; padding: 0px; border: currentColor; border-image: none; cursor: pointer; -webkit-appearance: button;
+}
+input[type='reset'] {
+	background: none; padding: 0px; border: currentColor; border-image: none; cursor: pointer; -webkit-appearance: button;
+}
+input[type='submit'] {
+	background: none; padding: 0px; border: currentColor; border-image: none; cursor: pointer; -webkit-appearance: button;
+}
+button[disabled] {
+	cursor: default;
+}
+html input[disabled] {
+	cursor: default;
+}
+input[type='checkbox'] {
+	padding: 0px; box-sizing: border-box;
+}
+input[type='radio'] {
+	padding: 0px; box-sizing: border-box;
+}
+input[type='search'] {
+	box-sizing: content-box; -webkit-appearance: textfield; -moz-box-sizing: content-box; -webkit-box-sizing: content-box;
+}
+textarea {
+	overflow: auto; vertical-align: top;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+button {
+	margin: 0px; font-family: "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; font-size: 100%; vertical-align: baseline;
+}
+input {
+	margin: 0px; font-family: "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; font-size: 100%; vertical-align: baseline;
+}
+select {
+	margin: 0px; font-family: "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; font-size: 100%; vertical-align: baseline;
+}
+textarea {
+	margin: 0px; font-family: "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; font-size: 100%; vertical-align: baseline;
+}
+input {
+	padding: 0px;
+}
+input[type='radio'] {
+	margin: 0px; vertical-align: middle;
+}
+input[type='checkbox'] {
+	margin: 0px; vertical-align: middle;
+}
+input[type='text'] {
+	text-indent: 3px;
+}
+label span {
+	vertical-align: middle;
+}
+hr {
+	border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(204, 204, 204) currentColor currentColor; margin: 1em 0px; padding: 0px; border-image: none; height: 1px; display: block;
+}
+audio {
+	vertical-align: middle;
+}
+canvas {
+	vertical-align: middle;
+}
+img {
+	vertical-align: middle;
+}
+video {
+	vertical-align: middle;
+}
+fieldset {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none;
+}
+textarea {
+	resize: vertical;
+}
+ul {
+	list-style: none;
+}
+li {
+	list-style: none;
+}
+dl {
+	margin: 0px; padding: 0px;
+}
+ol {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+dt {
+	margin: 0px; padding: 0px;
+}
+dd {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+a {
+	color: inherit; text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+h1 {
+	margin: 0px;
+}
+h2 {
+	margin: 0px;
+}
+h3 {
+	margin: 0px;
+}
+h4 {
+	margin: 0px;
+}
+h5 {
+	margin: 0px;
+}
+h1 {
+	font-size: 22px;
+}
+h2 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 16px;
+}
+h4 {
+	font-size: 14px;
+}
+h5 {
+	font-size: 12px;
+}
